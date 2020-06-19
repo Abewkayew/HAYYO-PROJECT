@@ -1,3 +1,4 @@
 - Login implementation
 - Login shouldn't work with our validation
 - Login page shouldn't accept full name property
+- Accept sample-1 attribute
